@@ -1,2 +1,3 @@
-Hello Git!
-LOL
+Hello Git!\n
+LOL\n
+new.
