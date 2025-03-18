@@ -1,5 +1,5 @@
-<center>
+<div align= "center">
     <h1>Trying Git!</h1>
-</center>
-<br></br>
-LOL.
+</div>
+<br>
+LOL
